@@ -1,5 +1,5 @@
  {
-  "spider": "./jar/ok.jar",
+  "spider": "https://gitee.com/lanny520/study1/raw/master/jar/ok.jar",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
   "logo": "https://gitee.com/lanny520/study1/raw/master/JS/logo.jpg",
   "sites": [
