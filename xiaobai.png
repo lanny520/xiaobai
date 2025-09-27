@@ -25,23 +25,6 @@
         "ratio": 1.43
       }
     },
-{
-      "key": "Emby",
-      "name": "hohai",
-      "type": 3,
-      "api": "./JS/emby.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "server": "https://emby.hohai.eu.org:443",
-        "username": "lanny520",
-        "password": "a19841008",
-        "thread": 0,
-        "proxy": ""
-      },
-      "changeable": 1
-    },
     {
       "key": "玩偶哥哥",
       "name": "玩偶哥哥┃4K弹幕",
